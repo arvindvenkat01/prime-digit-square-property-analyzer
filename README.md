@@ -2,7 +2,7 @@
 
 This repository contains the Python code used for the computational verification in the paper: *"A Universal Modular Property of Twin Primes and Asymptotic Failure Rates for Prime Gaps"*.
 
-### Pre-print (Zenodo) : [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17162937.svg)](https://doi.org/10.5281/zenodo.17438456)
+### Pre-print (Zenodo) : [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17438456.svg)](https://doi.org/10.5281/zenodo.17438456)
 * **DOI** - 10.5281/zenodo.17438456
 * **URL** - https://doi.org/10.5281/zenodo.17438456
 
