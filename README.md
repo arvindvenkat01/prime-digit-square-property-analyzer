@@ -8,14 +8,18 @@ The script analyzes an elementary modular property of prime pairs $(p, p+k)$ rel
 
 ## Requirements
 
-To run the analysis, you will need Python 3.7+ and the following libraries:
+The computational results in the paper were generated using a specific set of library versions to ensure reproducibility. You can replicate this environment by installing the dependencies from the `requirements.txt` file.
 
-- `numpy`
-- `numba`
+You will need Python 3.7+ and the following packages:
 
-You can install them using pip:
+- `numpy==2.0.2`
+- `numba==0.60.0`
+
+### Installation
+
+To create the exact environment, navigate to the repository's directory and run:
 ```
-pip install numpy numba
+pip install -r requirements.txt
 ```
 
 ## How to Run the Code
