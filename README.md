@@ -8,9 +8,14 @@ The script analyzes an elementary modular property of prime pairs $(p, p+k)$ rel
 
 ## Requirements
 
-The computational results in the paper were generated using a specific set of library versions to ensure reproducibility. You can replicate this environment by installing the dependencies from the `requirements.txt` file.
+The computational results in the paper were generated using a specific set of library versions to ensure reproducibility.
 
-You will need Python 3.7+ and the following packages:
+### Environment
+
+The code requires **Python 3.7+**. The primary development and testing were performed using **Python 3.12.12**.
+
+### Dependencies
+The following packages are required. The exact versions used for generating the paper's results are specified in the `requirements.txt` file.
 
 - `numpy==2.0.2`
 - `numba==0.60.0`
